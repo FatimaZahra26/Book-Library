@@ -13,11 +13,11 @@ Clonez le dépôt GitHub du projet en utilisant la commande suivante dans votre 
 git clone https://github.com/FatimaZahra26/Book-Library.git
 
 2. Accédez au répertoire du projet:
-cd votre-projet-nextjs
+cd book-library
 
 3. Installez les dépendances:
 Installez les dépendances nécessaires en utilisant npm ou yarn. Si vous utilisez npm, exécutez :
-npm install
+npm install /
 Si vous préférez yarn, utilisez :
 yarn install
 
