@@ -1,4 +1,4 @@
-Projet Next.js
+BookLibrary
 
 Bienvenue dans le projet Next.js. Ce projet est une application web développée avec le framework Next.js. Suivez les étapes ci-dessous pour cloner le projet et le démarrer localement.
 
@@ -10,7 +10,7 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 Étapes pour cloner et démarrer le projet:
 1. Clonez le dépôt:
 Clonez le dépôt GitHub du projet en utilisant la commande suivante dans votre terminal :
-git clone https://github.com/votre-utilisateur/votre-projet-nextjs.git
+git clone https://github.com/FatimaZahra26/Book-Library.git
 
 2. Accédez au répertoire du projet:
 cd votre-projet-nextjs
